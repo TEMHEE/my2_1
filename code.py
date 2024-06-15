@@ -7,3 +7,5 @@ def my2():
         c=0
         print('Введите a')
         a=input()
+        print('Введите b')
+        b=input()
