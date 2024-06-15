@@ -10,3 +10,4 @@ def my2():
         print('Введите b')
         b=input()
         c=a**b
+        print(c)
