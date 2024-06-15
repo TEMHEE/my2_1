@@ -9,3 +9,4 @@ def my2():
         a=input()
         print('Введите b')
         b=input()
+        c=a**b
